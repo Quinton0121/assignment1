@@ -1,0 +1,41 @@
+#menu{
+    position: fixed;
+    left:-110px;
+    top:50px;
+    width:100px;
+    padding:5px;
+    background-color: black;
+}
+
+#MakeBG{
+    width:100%;
+    
+}
+
+#Reset{
+    width:100%;
+    
+}
+
+#HideApp{
+    width:100%;
+}
+
+#ShowApp{
+    width:100%;
+}
+
+#Open{
+    position: absolute;
+    width:50px;
+    right:-50px;
+    top: 0px;
+}
+
+#Close{
+    position: absolute;
+    width:50px;
+    right:-50px;
+    bottom: 0px;
+    
+}
